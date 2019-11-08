@@ -1,0 +1,5 @@
+com\mypro04\SalaryTotalMapper.class
+com\mypro04\App.class
+com\mypro04\SalaryTotalPartitioner.class
+com\mypro04\Employee.class
+com\mypro04\SalaryTotalReducer.class

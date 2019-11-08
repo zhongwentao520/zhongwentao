@@ -1,0 +1,4 @@
+com\mypro05\App.class
+com\mypro05\SoldMapper.class
+com\mypro05\SoldReduce.class
+com\mypro05\Sold.class
